@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RecycleViewer</string>
+    <string name="add_button">Add Data</string>
+</resources>
